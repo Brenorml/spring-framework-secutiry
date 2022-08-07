@@ -1,4 +1,4 @@
-package com.aulaspringsecurity.SpringFrameworkSecurity;
+package com.aulaspringsecurity.SpringFrameworkSecurity.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
